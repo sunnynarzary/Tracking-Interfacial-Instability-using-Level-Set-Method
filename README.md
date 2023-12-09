@@ -29,7 +29,7 @@ To get started with this project, you can:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/AdityaMeena001/Bachelors-Thesis-Project
+   git clone https://github.com/sunnynarzary/Tracking-Interfacial-Instability-using-Level-Set-Method
    ```
 
 2. Open the index.html file in any browser and the program should start running within a canvas on the browser.f
